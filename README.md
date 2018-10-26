@@ -25,7 +25,7 @@ Connect jumpers from:
 Download this code: https://github.com/agwarin/Color-Sensor-and-Neopixel/blob/master/colorsensor_LEDstrip.ino
 
 Remmber to add these two libraries via the library manager: 
-Adafruit_TCS34725.h
-Adafruit_NeoPixel.h
+* Adafruit_TCS34725.h
+* Adafruit_NeoPixel.h
 
 ![alt text](https://code.nikiselken.com/img/arduinolib.png "Arduino LIbrary")
