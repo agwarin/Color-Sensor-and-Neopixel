@@ -1,7 +1,7 @@
 # Color-Sensor-and-Neopixel
 Adafruit Color Sensor with Neopixel LED Strip 
 
-##How to Wire
+## How to Wire
 
 Connect jumpers from:
 * 5v -> 5V (red wire)
